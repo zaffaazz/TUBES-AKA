@@ -88,7 +88,7 @@
   # inputan berupa tabel 
   terdapat inputan solo, jogja, malang, jakarta, surabaya
 
-
+  <img width="420" height="148" alt="Image" src="https://github.com/user-attachments/assets/8726ec0b-eb0d-4fa6-b74d-4ca13e51bf01" />
 
   # outputan grafik iteratif vs rekursif
 
