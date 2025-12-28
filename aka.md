@@ -92,6 +92,8 @@
 
   # outputan grafik iteratif vs rekursif
 
+  <img width="655" height="524" alt="Image" src="https://github.com/user-attachments/assets/a0556b1b-d21c-444d-b1c6-ec843fafc6d4" />
+
   
   
 
